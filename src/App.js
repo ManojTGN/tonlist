@@ -4,7 +4,7 @@ import TopBar from "./components/TopBar/TopBar";
 
 function App() {
   return (
-    <div className={`grid gap-4 grid-col-1 grid-rows-3 h-full w-full`}> 
+    <div className={`grid gap-2 grid-cols-1 grid-rows-20 h-full`}> 
         <TopBar></TopBar>
         <Content></Content>
         <BottomBar></BottomBar>
