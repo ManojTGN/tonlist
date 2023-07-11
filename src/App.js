@@ -2,7 +2,7 @@ import Button from "./components/Button";
 
 function App() {
   return (
-    <Button name={`Hello World`}></Button>
+    <Button value={`Manoj`}></Button>
   );
 }
 
