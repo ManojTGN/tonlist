@@ -16,7 +16,6 @@ function Content(){
                 <div className={`w-full h-2/3 rounded`}>
                     <div className={`flex w-full items-center justify-start rounded-md border border-transparent px-6 py-1 font-sans font-bold text-white shadow-sm`}><FontAwesomeIcon icon={faHeart} />Liked Songs</div>
                     <div className={`flex w-full items-center justify-start rounded-md border border-transparent px-6 py-1 font-sans font-bold text-white shadow-sm`}>Playlist song</div>
-                    <div className={`flex w-full items-center justify-start rounded-md border border-transparent px-6 py-1 font-sans font-bold text-white shadow-sm`}>Playlist song</div>
                 </div>
             </div>
             <div className={`col-span-2 rounded w-full h-full bg-gradient-to-r from-green-300 to-zinc-800`}>
